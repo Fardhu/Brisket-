@@ -1,0 +1,270 @@
+html, body {
+    overflow-x: hidden;
+}
+.box1{
+    margin-right: 15px;
+}
+.sec2{
+    background-image: url(brisket\ 1.avif);
+    height: 600px;
+    background-size: cover;
+    padding-top: 250px;
+
+}
+.inbox1{
+    text-align: center;
+   
+}
+.inbox1 h1{
+    /* font-size: 100px; */
+    font-weight: bold;
+    
+}
+.btn1{
+    background-color: #ad8749;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.btn2{
+    background-color: #ad8749;
+    font-weight: bold;
+    margin-top: 20px;
+}
+.sec3{
+    background-image: url(beef.jpg);
+    /* height: 300px; */
+    background-size: cover;
+    text-align: center;
+   
+}
+.line,.line1{
+    height: 2px;
+    background-color: rgba(255, 255, 255, 0.534);
+    width: 80%;
+}
+.line1{width: 100%;}
+.lin{
+    width: 50%;
+}
+
+.overlay{
+    background-color: rgba(0, 0, 0, 0.911);
+    min-height: 300px;
+}
+.inbox2{
+    margin-top: 110px;
+    /* background-color: aqua; */
+    /* padding: 20px; */
+    text-align: center;
+   
+    
+}
+.sec4{
+    background-image: url(restaurant1.jpg);
+    background-size: cover;
+    /* height: 500px; */
+    text-align: center;
+    padding: 100px 0px;
+}
+.head{
+    /* font-size: 100px; */
+    margin-top: 10px;
+    font-weight: bold;
+}
+.sec5{
+    background-image: url(crush\ beef.jpg);
+    background-size: cover;
+    /* height: 500px; */
+    text-align: center;
+    
+}
+.overlay1{
+    background-color: rgba(40, 41, 40, 0.281);
+    min-height: 500px;
+    padding: 50px 0px;
+}
+.ca{
+    font-weight: bold;
+}
+.sec6{
+    background-image: url(chef.jpg);
+    background-size: cover;
+    
+    
+}
+.overlay2{
+    background-color: rgba(250, 253, 247, 0.671);
+    min-height: 250px;
+    
+}
+.inbox5{
+    text-align: center;
+    min-height: 250px;
+    display: flex;
+    justify-content:center ;
+    align-items: flex-start;
+    flex-direction: column;
+    
+    
+}
+
+.inbox7{
+    text-align: center;
+    min-height: 250px;
+    display: flex;
+    justify-content:center ;
+    align-items: flex-end;
+    flex-direction: column;
+
+}
+.inbox6{
+    
+    text-align: center;
+    min-height: 250px;
+    padding-top: 80px;
+}
+.sec7{
+    background-image: url(coffee\ container.jpg);
+    background-size: cover;
+    min-height: 500px;
+    text-align: center;
+}
+.inbox8{
+   padding-top: 70px;
+    
+}
+.size{
+    font-size: 70px;
+    font-weight: bold;
+}
+.line3{
+    height: 2px;
+    width: 50%;
+    background-color: aliceblue;
+    margin-left: 25%;
+}
+.sec8{
+    background-image: url(couple\ 1.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 700px;
+    text-align: center;
+    padding-top: 200px;
+}
+.inbox9 p{
+    font-size: 100px;
+    font-weight: bold;
+   
+}
+.inbox9 .para{
+    font-size: 30px;
+    font-weight: bold;
+
+}
+.sec9{
+    background-image: url(family\ 1.jpg);
+    /* height: 300px; */
+    background-size: cover;
+    text-align: center;
+   
+    
+}
+.inbox10{
+    text-align: center;
+    min-height: 250px;
+    display: flex;
+    justify-content:center ;
+    align-items: flex-start;
+    flex-direction: column;
+    padding-top: 80px;
+    
+}
+.inbox11 p{
+padding-top: 80px;
+
+}
+.inbox12{
+    text-align: center;
+    min-height: 250px;
+    display: flex;
+    justify-content:center ;
+    align-items: flex-end;
+    flex-direction: column;
+    padding-top: 80px;
+    
+}
+.overlays3{
+    background-color: rgba(250, 253, 247, 0.555);
+    min-height: 300px;
+}   
+.sec10{
+    background-image: url(chef2.jpg);
+    background-size: cover;
+    background-position:top;
+    /* min-height: 500px; */
+    text-align: center;
+   
+   
+  
+}
+.overlay4{
+    background-color: rgba(32, 32, 32, 0.603);
+    min-height: 600px;
+    padding-top: 200px;
+   
+}   
+.inbox13 P{
+    font-weight: bold;
+}
+.line4{
+    height: 2px;
+    width: 30%;
+    background-color: aliceblue;
+    margin-left: 35%;
+   
+    
+}
+.ben{
+    font-size: 50px;
+}
+.sec11{
+    background-color: rgba(0, 0, 0, 0.644);
+    min-height: 350px;
+}
+
+.inbox15 P,.inbox16 P,.inbox17 P{
+    font-size: medium;
+    margin-left: 50px;
+    font-weight: bold;
+}
+.inbox14,.inbox15,.inbox16,.inbox17{
+    min-height: 200px;
+    margin-top: 50px;
+}
+.inbox16{
+    min-height: 150px;
+}
+.link1{
+    margin-left: 50px;
+}
+.btn3{
+    margin-left: 50px;
+}
+.sec12{
+    background-color: black;
+    min-height: 100px;
+}
+.inbox18 p{
+    padding-top: 25px;
+    font-size: larger;
+    font-weight: bold;
+}
+.inbox19{
+    padding-top: 25px;
+    text-align: right;
+}
+@media(max-width:768px){
+    .inbox19{
+        text-align: left;
+    }
+}
